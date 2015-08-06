@@ -1,4 +1,5 @@
 {
   "premiumMode": false,
-  "stayLoggedIn": false
+  "stayLoggedIn": false,
+  "lastLogin": "Steve"
 }
