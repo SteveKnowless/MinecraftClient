@@ -63,7 +63,7 @@
       "name": "com.mojang:authlib:1.5.21"
     },
     {
-      "name": "com.mojang:realms:1.7.26"
+      "name": "com.mojang:realms:1.7.39"
     },
     {
       "name": "org.apache.commons:commons-compress:1.8.1"
